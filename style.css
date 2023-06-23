@@ -1,3 +1,4 @@
+/* welcome page */
 .our_box .titlepage {
     text-align: right;
     padding-bottom: 30px;
@@ -30,6 +31,7 @@
     width: 100%;
 }
 
+/* rooms */
 .choose {
     margin-top: 90px;
 }
@@ -54,6 +56,10 @@
     padding: 0px 0px 45px 0px;
 }
 
+.choose_box_right {
+    text-align: right;
+}
+
 .img_box {
     margin-bottom: 30px;
 }
@@ -65,8 +71,46 @@
 .img_box figure img {
     width: 100%;
 }
-.our {
-    margin-top: 60px;
+
+/* accommodation */
+.stay {
+    margin-top: 0%;
+}
+    
+.stay_box {
+        padding-top: 45px;
+}
+    
+.stay_box .titlepage {
+        text-align: left;
+        padding-bottom: 15px;
+}
+    
+.text_norlam {
+        font-weight: normal;
+}
+    
+.stay_box p {
+        font-size: 17px;
+        line-height: 36px;
+        color: #313131;
+        padding: 0px 0px 45px 0px;
+}
+    
+.stay_box_right {
+        text-align: right;
+}
+    
+.card {
+        margin-bottom: 30px;
+}
+    
+.card figure {
+        margin: 0;
+}
+    
+.card figure img {
+        width: 100%;
 }
 
 
