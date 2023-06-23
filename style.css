@@ -1,3 +1,35 @@
+.our_box .titlepage {
+    text-align: right;
+    padding-bottom: 30px;
+}
+
+.text_norlam {
+    font-weight: normal;
+}
+
+.our_box {
+    text-align: right;
+}
+
+.our_box p {
+    font-size: 17px;
+    line-height: 36px;
+    color: #313131;
+    padding: 0px 0px 40px 0px;
+}
+
+.our .img_box {
+    margin-bottom: 0px;
+}
+
+.img_box figure {
+    margin: 0;
+}
+
+.img_box figure img {
+    width: 100%;
+}
+
 .choose {
     margin-top: 90px;
 }
@@ -37,34 +69,4 @@
     margin-top: 60px;
 }
 
-.our_box .titlepage {
-    text-align: right;
-    padding-bottom: 30px;
-}
 
-.text_norlam {
-    font-weight: normal;
-}
-
-.our_box {
-    text-align: right;
-}
-
-.our_box p {
-    font-size: 17px;
-    line-height: 36px;
-    color: #313131;
-    padding: 0px 0px 40px 0px;
-}
-
-.our .img_box {
-    margin-bottom: 0px;
-}
-
-.img_box figure {
-    margin: 0;
-}
-
-.img_box figure img {
-    width: 100%;
-}
