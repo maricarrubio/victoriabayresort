@@ -9,7 +9,22 @@
 
     }
 }
-
+.navigation{
+    justify-content: space-evenly;
+    align-items: center;
+}
+#link {
+    color: rgb(252,158,6);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 1000;
+    margin: 0px 5px;
+    justify-content: center;
+}
+#link:hover {
+    background-color: rgb(26,113,168);
+    transition: 0.5s;
+}
 /* welcome page */
 .our_box .titlepage {
     text-align: right;
