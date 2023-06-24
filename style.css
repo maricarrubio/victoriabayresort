@@ -120,6 +120,12 @@
     font-weight: lighter;
 }
 
+#events {
+    width: 600px;
+    height: 600px;
+    padding: 50px;
+}
+
 #gal {
     width: 400px;
     height: 400px;
