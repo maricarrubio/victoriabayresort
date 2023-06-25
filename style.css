@@ -217,7 +217,7 @@
 /* footer */
 .footer-container {
     width: 100%;
-    padding: 70px 30 px 20px;
+    padding: 40px 20 px 10px;
     background-color: white;
 }
 .social-media {
@@ -249,7 +249,7 @@
 }
 .footer-container {
     background-color: rgb(26,113,168);
-    padding-top: 30px;
+    padding-top: 10px;
 }
 .footer-nav ul {
     display: flex;
@@ -267,6 +267,7 @@
 .footer-nav ul li a:hover {
     color: rgb(26,113,168);
     background-color: rgb(252,158,6);
+    padding: 5px 5px;
     opacity: 5;
 }
 .footer-bottom {
