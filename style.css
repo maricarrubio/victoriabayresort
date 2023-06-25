@@ -278,13 +278,13 @@
     color: rgb(252,158,6);
 }
 .designer {
-    color: rgb(252,158,6);
-    text-transform: uppercase;
+    background-color: rgb(252,158,6);
     letter-spacing: 1px;
     font-weight: 400;
     margin: 0px 5px;
+    padding: 20px 20px;
     align-items: center;
-    list-style: none;
+    text-transform: capitalize;
 }
 
 
