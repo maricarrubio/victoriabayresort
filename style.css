@@ -9,20 +9,22 @@
 
     }
 }
-.navigation{
-    justify-content: space-evenly;
-    align-items: center;
-}
+
+.navigation {
+    background-color: rgb(26,113,168);
+    padding-bottom: 50px;
+}   
+
 #link {
     color: rgb(252,158,6);
-    text-transform: uppercase;
     letter-spacing: 1px;
     font-weight: 1000;
-    margin: 0px 5px;
-    justify-content: center;
+    margin-top: 35px;
+    margin-left: 100px;
 }
 #link:hover {
-    background-color: rgb(26,113,168);
+    color: rgb(26,113,168);
+    background-color: rgb(252,158,6);
     transition: 0.5s;
 }
 /* welcome page */
@@ -193,7 +195,14 @@
 }
 .social-media a:hover i{
     color: rgb(252,158,6);
+    background-color: rgb(119,204,232);
+    padding: 5px;
+    border-radius: 80%;
     transition: 0.5s;
+}
+.footer-container {
+    background-color: rgb(26,113,168);
+    padding-top: 30px;
 }
 .footer-nav ul {
     display: flex;
@@ -213,15 +222,15 @@
     opacity: 5;
 }
 .footer-bottom {
-    color:rgb(240, 240, 246);
+    color:rgb(252,158,6);
     padding: 20px;
     text-align: center;
 }
 .footer-bottom p {
-    color: rgb(26,113,168);
+    color: rgb(252,158,6);
 }
 .designer {
-    
+    color: rgb(252,158,6);
     text-transform: uppercase;
     letter-spacing: 1px;
     font-weight: 400;
