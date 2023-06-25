@@ -220,6 +220,7 @@
 }
 .footer-nav ul li a:hover {
     color: rgb(26,113,168);
+    background-color: rgb(252,158,6);
     opacity: 5;
 }
 .footer-bottom {
